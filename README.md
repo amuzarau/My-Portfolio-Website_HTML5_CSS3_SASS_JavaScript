@@ -141,7 +141,7 @@ For Sass editing, recompile SCSS to CSS after changes.
 
 ## 🔮 Planned Improvements
 
-# 🌍 Multilingual version of the website:
+ 🌍 Multilingual version of the website:
 
 English
 
@@ -154,7 +154,7 @@ Italian
 Polish
 
 
-# 🖼️ Certificates gallery
+ 🖼️ Certificates gallery
 
 Interactive slider using Swiper JS
 
