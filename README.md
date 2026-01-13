@@ -10,7 +10,7 @@ A modern, responsive **personal portfolio website** built with **HTML5, CSS3, Sa
 ## 📌 Project Overview
 
 This project is a **personal portfolio website in English** (with plans to add a multilingual version in the future).  
-The website is **fully responsive**, optimized for desktop, tablet, and mobile devices, and includes both **dark and light themes**, implemented using JavaScript.
+The website is **responsive**, optimized for desktop device, and includes both **dark and light themes**, implemented using JavaScript.
 
 ✨ **UI interactions:**
 - On hover, the **Download CV** and **Submit Message** buttons change color
