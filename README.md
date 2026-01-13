@@ -128,10 +128,10 @@ flowchart TD
 ---
 
 ## 🚀 How to Run Locally
-# Clone the repository
+Clone the repository
 git clone https://github.com/amuzarau/My-Portfolio-Website_HTML5_CSS3_SASS_JavaScript.git
 
-# Open index.html in your browser
+Open index.html in your browser
 
 
 No backend or build tools are required.
