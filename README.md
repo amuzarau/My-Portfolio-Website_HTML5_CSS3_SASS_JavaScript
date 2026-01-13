@@ -70,8 +70,9 @@ The website is **responsive**, optimized for desktop device, and includes both *
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
+```text
 img/
 ├── skills/
 │   ├── excel.svg
@@ -93,8 +94,6 @@ img/
 ├── port8.jpg
 ├── port9.jpg
 └── port10.jpg
-
----
 
 
 ---
