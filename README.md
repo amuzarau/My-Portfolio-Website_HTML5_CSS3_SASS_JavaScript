@@ -73,27 +73,40 @@ The website is **responsive**, optimized for desktop device, and includes both *
 ## 📁 Project Structure
 
 ```text
-img/
-├── skills/
-│   ├── excel.svg
-│   └── powerbi.svg
+My-Portfolio-Website_HTML5_CSS3_SASS_JavaScript/
 │
-├── blog1.jpg
-├── blog2.jpg
-├── blog3.jpg
+├── index.html                # Main HTML file
+├── app.js                    # JavaScript logic (theme switch, interactions)
+├── README.md                 # Project documentation
 │
-├── hero.png
+├── styles/
+│   ├── styles.scss           # Main Sass file
+│   ├── _media.scss           # Responsive media queries
+│   ├── styles.css            # Compiled CSS
+│   └── styles.css.map        # Source map for debugging
 │
-├── port1.jpg
-├── port2.jpg
-├── port3.jpg
-├── port4.jpg
-├── port5.jpg
-├── port6.jpg
-├── port7.jpg
-├── port8.jpg
-├── port9.jpg
-└── port10.jpg
+├── img/
+│   ├── skills/
+│   │   ├── excel.svg
+│   │   └── powerbi.svg
+│   │
+│   ├── blog1.jpg
+│   ├── blog2.jpg
+│   ├── blog3.jpg
+│   │
+│   ├── hero.png
+│   │
+│   ├── port1.jpg
+│   ├── bati port2.jpg
+│   ├── port3.jpg
+│   ├── port4.jpg
+│   ├── port5.jpg
+│   ├── port6.jpg
+│   ├── port7.jpg
+│   ├── port8.jpg
+│   ├── port9.jpg
+│   └── port10.jpg
+
 ```
 
 ---
