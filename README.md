@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern, responsive **personal portfolio website** built with **HTML5, CSS3, Sass, and JavaScript**, designed to showcase projects, skills, experience, and provide an easy way to contact me.
+A modern, responsive **personal portfolio website** built with **HTML5, CSS3, Sass, and JavaScript**, designed to showcase my projects, skills, experience, and provide an easy way to contact me.
 
 🔗 **Live Website:** https://andreimuzarau.com/  
 🔗 **GitHub Repository:** https://github.com/amuzarau/My-Portfolio-Website_HTML5_CSS3_SASS_JavaScript  
@@ -54,8 +54,6 @@ The website is **fully responsive**, optimized for desktop, tablet, and mobile d
 | **Sass (SCSS)** | Modular, maintainable styling |
 | **JavaScript (ES6+)** | Theme switching, interactivity |
 | **EmailJS** | Contact form email delivery |
-| **Font Awesome** | Icons |
-| **Google Fonts** | Typography |
 
 ---
 
@@ -74,4 +72,78 @@ The website is **fully responsive**, optimized for desktop, tablet, and mobile d
 
 ## 🗂️ Project Structure
 
+img/
+├── skills/
+│   ├── excel.svg
+│   └── powerbi.svg
+│
+├── blog1.jpg
+├── blog2.jpg
+├── blog3.jpg
+│
+├── hero.png
+│
+├── port1.jpg
+├── port2.jpg
+├── port3.jpg
+├── port4.jpg
+├── port5.jpg
+├── port6.jpg
+├── port7.jpg
+├── port8.jpg
+├── port9.jpg
+└── port10.jpg
 
+---
+
+
+---
+
+## 🔁 Project Architecture (Mermaid Diagram)
+
+```mermaid
+flowchart TD
+    A[User Browser] --> B[index.html]
+    B --> C[CSS / Sass Styles]
+    B --> D[JavaScript Logic]
+    D --> E[Theme Toggle<br/>Dark / Light]
+    D --> F[UI Interactions]
+    B --> G[Contact Form]
+    G --> H[EmailJS Service]
+    H --> I[Personal Email Inbox]
+```
+
+---
+
+## 🚀 How to Run Locally
+# Clone the repository
+git clone https://github.com/amuzarau/My-Portfolio-Website_HTML5_CSS3_SASS_JavaScript.git
+
+# Open index.html in your browser
+
+
+No backend or build tools are required.
+For Sass editing, recompile SCSS to CSS after changes.
+
+---
+
+## 🔮 Planned Improvements
+
+# 🌍 Multilingual version of the website:
+
+English
+
+German
+
+French
+
+Italian
+
+Polish
+
+
+# 🖼️ Certificates gallery
+
+Interactive slider using Swiper JS
+
+Display of IT course certificates
